@@ -11,23 +11,23 @@ Research Adviser: Anastasiya Maksimovskaya / Научный руководите
 
 # Milestone 2 / Этап 2
 
-ML-задачи:
+ML objectives / ML-задачи:
 
-- Построение классификатора аномальных транзакций
+- Building an abnormal transactions classifier / Построение классификатора аномальных транзакций
 
-- Балансировка данных
+- Data balancing / Балансировка данных
 
-- Статистические подходы к поиску аномалий
+- Statistical approach to the search for anomalies / Статистические подходы к поиску аномалий
 
-- Подход без учителя (кластеризация, ML-методы поиска аномалий)
+- Unsupervised approach (clustering, ML-based methods of anomaly search) / Подход без учителя (кластеризация, ML-методы поиска аномалий)
 
-- Объединение двух подходов
+- Combining two approaches / Объединение двух подходов
 
 # Milestone 3 / Этап 3
 
-Улучшение прогноза:
-- Объединение подходов обучения с и без учителя в semi-supervised способ
+Prediction improvement / Улучшение прогноза:
+- Combining two approaches into a semi-supervised approach / Объединение подходов обучения с и без учителя в semi-supervised способ
  
-DL-задачи:
-- GAN сеть для генерации неподозрительных транзакций (прогоняем транзакцию через дискриминатор)
+DL objectives / DL-задачи:
+- GAN network for generating non-suspicious transactions (running transactions through the discriminator) / GAN сеть для генерации неподозрительных транзакций (прогоняем транзакцию через дискриминатор)
 
