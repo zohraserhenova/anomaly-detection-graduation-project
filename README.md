@@ -1,15 +1,15 @@
-# Fraud and anomaly detection in banking transactions / Детектирование аномалий в банковских транзакциях
+## Fraud and anomaly detection in banking transactions / Детектирование аномалий в банковских транзакциях
 By Zohra Serhenova / Исполнитель: Зохра Серхенова
 
 Research Adviser: Anastasiya Maksimovskaya / Научный руководитель: Анастасия Максимовская
 
-# Milestone 1 / Этап 1
+## Milestone 1 / Этап 1
 
 - Collecting and/or searching for a relevant dataset / Сбор и/или поиск подходящего датасета
 
 - EDA of suspicious transactions (an attempt to figure out which transactions require bank's intervention) / EDA подозрительных транзакций (пытаемся найти ответ на вопрос, в проведение каких именно транзакций банку стоит дополнительно вмешаться)
 
-# Milestone 2 / Этап 2
+## Milestone 2 / Этап 2
 
 ML objectives / ML-задачи:
 
@@ -23,7 +23,7 @@ ML objectives / ML-задачи:
 
 - Combining two approaches / Объединение двух подходов
 
-# Milestone 3 / Этап 3
+## Milestone 3 / Этап 3
 
 Prediction improvement / Улучшение прогноза:
 - Combining two approaches into a semi-supervised approach / Объединение подходов обучения с и без учителя в semi-supervised способ
