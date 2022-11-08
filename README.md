@@ -5,9 +5,9 @@ Research Adviser: Anastasiya Maksimovskaya / Научный руководите
 
 # Milestone 1 / Этап 1
 
-- Сбор и/или поиск подходящего датасета
+- Collecting and/or searching for a relevant dataset / Сбор и/или поиск подходящего датасета
 
-- EDA подозрительных транзакций (пытаемся найти ответ на вопрос, в проведение каких именно транзакций банку стоит дополнительно вмешаться)
+- EDA of suspicious transactions (an attempt to figure out which transactions require bank's intervention) / EDA подозрительных транзакций (пытаемся найти ответ на вопрос, в проведение каких именно транзакций банку стоит дополнительно вмешаться)
 
 # Milestone 2 / Этап 2
 
